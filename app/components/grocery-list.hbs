@@ -1,0 +1,10 @@
+<section class="main">
+  {{!--   <input id="mark-all-complete" class="toggle-all" type="checkbox">
+  <label for="mark-all-complete">Mark all as complete</label> --}}
+
+  <ul class="todo-list">
+    {{#each @items as |item|}}
+    <Item @item={{item}} />
+    {{/each}}
+  </ul>
+</section>
