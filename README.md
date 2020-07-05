@@ -1,5 +1,7 @@
 # A grocery list with EmberJS
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b52b4ebf-f4c9-4c68-997c-a79e212c5bb6/deploy-status)](https://app.netlify.com/sites/embergrocerylist/deploys)
+
 This is meant to be a small exercise to practice EmberJS
 
 ## Prerequisites
